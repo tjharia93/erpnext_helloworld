@@ -1,0 +1,8 @@
+app_name = "erpnext_helloworld"
+app_title = "ERPNext HelloWorld"
+app_publisher = "Vimit Converters"
+app_description = "Demo app with Hello World report"
+app_icon = "octicon octicon-smiley"
+app_color = "blue"
+app_email = "tanuj.haria@vimit.com"
+app_license = "MIT"
