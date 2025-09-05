@@ -1,0 +1,23 @@
+{
+  "doctype": "DocType",
+  "name": "Hello World",
+  "module": "VCL Custom",
+  "custom": 1,
+  "fields": [
+    {
+      "fieldname": "message",
+      "fieldtype": "Data",
+      "label": "Message",
+      "default": "Hello World"
+    }
+  ],
+  "permissions": [
+    {
+      "role": "System Manager",
+      "read": 1,
+      "write": 1,
+      "create": 1,
+      "delete": 1
+    }
+  ]
+}
